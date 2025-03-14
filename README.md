@@ -12,6 +12,7 @@ A small business database which I had to design and build for a circular-newspap
 * Foreign Keys
 * Microsoft Planner
 * Microsoft SQL Server 2019
+* Microsoft Word
 * Photo Scanning
 * Primary Keys
 * SQL
